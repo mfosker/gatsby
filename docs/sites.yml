@@ -2345,3 +2345,11 @@
     - Portfolio 
     - Freelance
   featured: false
+- title: Mike's Remote List
+main_url: 'https://www.mikesremotelist.com'
+url: 'https://www.mikesremotelist.com'
+description: >
+  A list or remote jobs, updated throughout the day. Running on Gatsby, powered by Google Sheets, sticky tape and string.
+categories:
+- Jobs
+featured: false
